@@ -3,11 +3,7 @@
 
 
 
-this is the fun project, enjoy
-
-code: collection
-i don't know who created 
-i just share this code in my id
+-this is the fun project, enjoy
 
 
 
